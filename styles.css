@@ -1,0 +1,35 @@
+/* styles.css */
+
+* {
+    font-family: Helvetia, "Times New Roman", serif;
+}
+
+a {
+    color: orange;
+    border: 1px;
+}
+
+img {
+    height: auto;
+    width: 300;
+}
+
+.border {
+    border: 5px solid orange;
+}
+
+.important {
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+#pizza_desc {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 900;
+    color:red;
+}
+
+ul li.first {
+    font-weight: 800;
+    background-color: yellow;
+}
