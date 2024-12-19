@@ -7,6 +7,12 @@
 a {
     color: orange;
     border: 1px;
+    display: block;
+    height: 40px;
+    width: 100px;
+    padding: 5px;
+    background-color: grey;
+    text-align: center;
 }
 
 img {
